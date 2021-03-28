@@ -58,7 +58,7 @@ export default function Dashboard({ code }) {
     console.log('Title: ' + title + ', Artist: ' + artist);
 
     axios
-      .get('http://localhost:3001/lyrics', {
+      .get('https://spotify-lyrics-server.herokuapp.com/lyrics', {
         params: { track: title, artist: artist },
       })
       .then((res) => {
