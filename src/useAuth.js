@@ -6,10 +6,14 @@ export default function useAuth(code) {
   const [refreshToken, setRefreshToken] = useState();
   const [expiresIn, setExpiresIn] = useState();
 
+  //const baseUrl = 'http://localhost:3001/';
+  const baseUrl = 'https://spotify-lyrics-server.herokuapp.com/'; // Backend server URL
+
   useEffect(() => {
     axios
-      .post('https://spotify-lyrics-server.vercel.app/login', { code })
+      .post(baseUrl + 'login', { code })
       .then((res) => {
+        console.log('Login', res.data);
         setAccessToken(res.data.accessToken);
         setRefreshToken(res.data.refreshToken);
         setExpiresIn(res.data.expiresIn);
@@ -24,7 +28,7 @@ export default function useAuth(code) {
     if (!refreshToken || !expiresIn) return;
     const interval = setInterval(() => {
       axios
-        .post('https://spotify-lyrics-server.vercel.app/refresh', {
+        .post(baseUrl + 'refresh', {
           refreshToken,
         })
         .then((res) => {
