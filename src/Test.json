@@ -1,0 +1,186 @@
+{
+    "currentDeviceId": "58479097b55f928c0020194811c58179ac95495d",
+    "deviceId": "58479097b55f928c0020194811c58179ac95495d",
+    "devices": [
+      {
+        "id": "3e1f0089637903878921b9f59127382ceeedab2d",
+        "is_active": false,
+        "is_private_session": false,
+        "is_restricted": false,
+        "name": "DESKTOP-BEN",
+        "type": "Computer",
+        "volume_percent": 50
+      },
+      {
+        "id": "4228e420decb6db51a7fd77f172510997ccbf6b8",
+        "is_active": false,
+        "is_private_session": false,
+        "is_restricted": false,
+        "name": "Musixmatch for Desktop",
+        "type": "Computer",
+        "volume_percent": 9
+      },
+      {
+        "id": "58479097b55f928c0020194811c58179ac95495d",
+        "is_active": false,
+        "is_private_session": false,
+        "is_restricted": false,
+        "name": "Spotify Web Player",
+        "type": "Computer",
+        "volume_percent": 9
+      }
+    ],
+    "error": "",
+    "errorType": "",
+    "isActive": true,
+    "isInitializing": false,
+    "isMagnified": false,
+    "isPlaying": true,
+    "isSaved": false,
+    "isUnsupported": false,
+    "needsUpdate": false,
+    "nextTracks": [
+      {
+        "id": "2TpZlmChocrfeL5J6ed70t",
+        "uri": "spotify:track:2TpZlmChocrfeL5J6ed70t",
+        "type": "track",
+        "uid": "e525e4b68179bdb039fa",
+        "linked_from": {
+          "uri": null,
+          "id": null
+        },
+        "media_type": "audio",
+        "track_type": "audio",
+        "name": "Kingdom Come",
+        "duration_ms": 139866,
+        "artists": [
+          {
+            "name": "Jon Bellion",
+            "uri": "spotify:artist:50JJSqHUf2RQ9xsHs0KMHg"
+          }
+        ],
+        "album": {
+          "uri": "spotify:album:0Qfwzu4yfzVUIrBLittdDO",
+          "name": "The Separation",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e022123ad73c2db3af393e76930",
+              "height": 300,
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048512123ad73c2db3af393e76930",
+              "height": 64,
+              "width": 64
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2732123ad73c2db3af393e76930",
+              "height": 640,
+              "width": 640
+            }
+          ]
+        },
+        "is_playable": true
+      },
+      {
+        "id": "2SkJKMfjpYsNv0KWOxiegX",
+        "uri": "spotify:track:2SkJKMfjpYsNv0KWOxiegX",
+        "type": "track",
+        "uid": "06f7140c4fc9b7092056",
+        "linked_from": {
+          "uri": null,
+          "id": null
+        },
+        "media_type": "audio",
+        "track_type": "audio",
+        "name": "Kaleidoscope",
+        "duration_ms": 229320,
+        "artists": [
+          {
+            "name": "A Great Big World",
+            "uri": "spotify:artist:5xKp3UyavIBUsGy3DQdXeF"
+          }
+        ],
+        "album": {
+          "uri": "spotify:album:6SQWwNCTTPmS1DaXQNRDOy",
+          "name": "When the Morning Comes",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e0225d7f3ad46f7b220176746d6",
+              "height": 300,
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000485125d7f3ad46f7b220176746d6",
+              "height": 64,
+              "width": 64
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b27325d7f3ad46f7b220176746d6",
+              "height": 640,
+              "width": 640
+            }
+          ]
+        },
+        "is_playable": true
+      }
+    ],
+    "playerPosition": "bottom",
+    "position": 0,
+    "previousTracks": [
+      {
+        "id": "4yLoZbvsw3UXMgOgylYgQn",
+        "uri": "spotify:track:4yLoZbvsw3UXMgOgylYgQn",
+        "type": "track",
+        "uid": "1a9d38b000ef5a07387c",
+        "linked_from": {
+          "uri": null,
+          "id": null
+        },
+        "media_type": "audio",
+        "track_type": "audio",
+        "name": "Sinner",
+        "duration_ms": 220727,
+        "artists": [
+          {
+            "name": "Andy Grammer",
+            "uri": "spotify:artist:2oX42qP5ineK3hrhBECLmj"
+          }
+        ],
+        "album": {
+          "uri": "spotify:album:0XUNG1cssmwHh22loRqKdJ",
+          "name": "Magazines Or Novels",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e0208387bff707fcd5318f0adb0",
+              "height": 300,
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000485108387bff707fcd5318f0adb0",
+              "height": 64,
+              "width": 64
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b27308387bff707fcd5318f0adb0",
+              "height": 640,
+              "width": 640
+            }
+          ]
+        },
+        "is_playable": true
+      }
+    ],
+    "progressMs": 0,
+    "status": "READY",
+    "track": {
+      "artists": "Imagine Dragons",
+      "durationMs": 186813,
+      "id": "4G8gkOterJn0Ywt6uhqbhp",
+      "image": "https://i.scdn.co/image/ab67616d00004851b2b2747c89d2157b0b29fb6a",
+      "name": "Radioactive",
+      "uri": "spotify:track:4G8gkOterJn0Ywt6uhqbhp"
+    },
+    "volume": 0.1,
+    "type": "track_update"
+  }

@@ -1,0 +1,143 @@
+{
+    "currentDeviceId": "58479097b55f928c0020194811c58179ac95495d",
+    "deviceId": "58479097b55f928c0020194811c58179ac95495d",
+    "devices": [
+      {
+        "id": "3e1f0089637903878921b9f59127382ceeedab2d",
+        "is_active": false,
+        "is_private_session": false,
+        "is_restricted": false,
+        "name": "DESKTOP-BEN",
+        "type": "Computer",
+        "volume_percent": 50
+      },
+      {
+        "id": "4228e420decb6db51a7fd77f172510997ccbf6b8",
+        "is_active": false,
+        "is_private_session": false,
+        "is_restricted": false,
+        "name": "Musixmatch for Desktop",
+        "type": "Computer",
+        "volume_percent": 9
+      },
+      {
+        "id": "58479097b55f928c0020194811c58179ac95495d",
+        "is_active": false,
+        "is_private_session": false,
+        "is_restricted": false,
+        "name": "Spotify Web Player",
+        "type": "Computer",
+        "volume_percent": 9
+      }
+    ],
+    "error": "",
+    "errorType": "",
+    "isActive": true,
+    "isInitializing": false,
+    "isMagnified": false,
+    "isPlaying": true,
+    "isSaved": false,
+    "isUnsupported": false,
+    "needsUpdate": true,
+    "nextTracks": [
+      {
+        "id": "4G8gkOterJn0Ywt6uhqbhp",
+        "uri": "spotify:track:4G8gkOterJn0Ywt6uhqbhp",
+        "type": "track",
+        "uid": "cee066aecdb2cca16006",
+        "linked_from": {
+          "uri": null,
+          "id": null
+        },
+        "media_type": "audio",
+        "track_type": "audio",
+        "name": "Radioactive",
+        "duration_ms": 186813,
+        "artists": [
+          {
+            "name": "Imagine Dragons",
+            "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+          }
+        ],
+        "album": {
+          "uri": "spotify:album:6htgf3qv7vGcsdxLCDxKp8",
+          "name": "Night Visions",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02b2b2747c89d2157b0b29fb6a",
+              "height": 300,
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851b2b2747c89d2157b0b29fb6a",
+              "height": 64,
+              "width": 64
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a",
+              "height": 640,
+              "width": 640
+            }
+          ]
+        },
+        "is_playable": true
+      },
+      {
+        "id": "2TpZlmChocrfeL5J6ed70t",
+        "uri": "spotify:track:2TpZlmChocrfeL5J6ed70t",
+        "type": "track",
+        "uid": "e525e4b68179bdb039fa",
+        "linked_from": {
+          "uri": null,
+          "id": null
+        },
+        "media_type": "audio",
+        "track_type": "audio",
+        "name": "Kingdom Come",
+        "duration_ms": 139866,
+        "artists": [
+          {
+            "name": "Jon Bellion",
+            "uri": "spotify:artist:50JJSqHUf2RQ9xsHs0KMHg"
+          }
+        ],
+        "album": {
+          "uri": "spotify:album:0Qfwzu4yfzVUIrBLittdDO",
+          "name": "The Separation",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e022123ad73c2db3af393e76930",
+              "height": 300,
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048512123ad73c2db3af393e76930",
+              "height": 64,
+              "width": 64
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2732123ad73c2db3af393e76930",
+              "height": 640,
+              "width": 640
+            }
+          ]
+        },
+        "is_playable": true
+      }
+    ],
+    "playerPosition": "bottom",
+    "position": 0,
+    "previousTracks": [],
+    "progressMs": 0,
+    "status": "READY",
+    "track": {
+      "artists": "Andy Grammer",
+      "durationMs": 220727,
+      "id": "4yLoZbvsw3UXMgOgylYgQn",
+      "image": "https://i.scdn.co/image/ab67616d0000485108387bff707fcd5318f0adb0",
+      "name": "Sinner",
+      "uri": "spotify:track:4yLoZbvsw3UXMgOgylYgQn"
+    },
+    "volume": 0.1,
+    "type": "player_update"
+  }
